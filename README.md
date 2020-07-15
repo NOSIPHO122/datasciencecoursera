@@ -1,3 +1,2 @@
-# datasciencecoursera
-HelloWorld.md
-this is a markdown file
+# datasciencecourse/HelloWorld.md
+This is a markdown file
